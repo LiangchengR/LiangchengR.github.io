@@ -1,0 +1,80 @@
+body{
+  text-align: center;
+  background-image: url(https://i.imgur.com/PlIGjMN.png);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.main-img{
+  height: 400px;
+}
+
+h1{
+  color: #FF2400;
+  font-family: 'Itim';
+  font-size: 64px;
+}
+h2{
+  color: #660000;
+  font-family: 'Permanent Marker', cursive;
+}
+
+.center, li {
+  text-align: center;
+  list-style-position: inside;
+  font-family: 'Comic Neue';
+}
+table{
+      font-size: 40px;
+      /* border-style: dotted; */
+      margin: auto;
+      color: #FF2400;
+      font-variant: small-caps;
+
+      transition: border-width 0.6s linear;
+}
+
+button{
+  padding: 15px 30px;
+  color: #fff;
+  font-size: 17px;
+  background-color: #87ceeb;
+  border-radius: 15px;
+  font-family: 'Itim';
+  font-variant: small-caps;
+}
+
+footer{
+      margin: 12px;
+}
+
+td{
+  border: solid 5px yellow;
+  padding: 40px;
+  height: 120px;
+  width: 120px;
+}
+
+table:hover{
+      border-width: 10px;
+}
+table tr td img:hover {
+/* Start the shake animation and make the animation last for 0.5 seconds */
+animation: shake 0.5s;
+/* When the animation is finished, start again */
+animation-iteration-count: infinite;
+}
+/* KeyFrame Animation: Shake */
+@keyframes shake {
+  0% { transform: translate(1px, 1px) rotate(0deg); }
+  10% { transform: translate(-1px, -2px) rotate(-1deg); }
+  20% { transform: translate(-3px, 0px) rotate(1deg); }
+  30% { transform: translate(3px, 2px) rotate(0deg); }
+  40% { transform: translate(1px, -1px) rotate(1deg); }
+  50% { transform: translate(-1px, 2px) rotate(-1deg); }
+  60% { transform: translate(-3px, 1px) rotate(0deg); }
+  70% { transform: translate(3px, 1px) rotate(-1deg); }
+  80% { transform: translate(-1px, -1px) rotate(1deg); }
+  90% { transform: translate(1px, 2px) rotate(0deg); }
+  100% { transform: translate(1px, -2px) rotate(-1deg); }
+}
