@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8fedc8b2.chunk.css",
+    "main.js": "/static/js/main.ac78e9a4.chunk.js",
+    "main.js.map": "/static/js/main.ac78e9a4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3618d139.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3618d139.js.map",
+    "static/js/2.1cffa46a.chunk.js": "/static/js/2.1cffa46a.chunk.js",
+    "static/js/2.1cffa46a.chunk.js.map": "/static/js/2.1cffa46a.chunk.js.map",
+    "static/js/3.da9bf856.chunk.js": "/static/js/3.da9bf856.chunk.js",
+    "static/js/3.da9bf856.chunk.js.map": "/static/js/3.da9bf856.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8fedc8b2.chunk.css.map": "/static/css/main.8fedc8b2.chunk.css.map",
+    "static/js/2.1cffa46a.chunk.js.LICENSE.txt": "/static/js/2.1cffa46a.chunk.js.LICENSE.txt",
+    "static/media/Reynolds_RESUME_DRAFT.8d894c76.pdf": "/static/media/Reynolds_RESUME_DRAFT.8d894c76.pdf",
+    "static/media/bg.337d3f32.jpg": "/static/media/bg.337d3f32.jpg",
+    "static/media/catTinder.2a150a28.jpg": "/static/media/catTinder.2a150a28.jpg",
+    "static/media/eggHunt.b6d22e15.png": "/static/media/eggHunt.b6d22e15.png",
+    "static/media/elCapStone.4709aeba.jpeg": "/static/media/elCapStone.4709aeba.jpeg",
+    "static/media/email.14d5be84.svg": "/static/media/email.14d5be84.svg",
+    "static/media/file-solid.82beb2bf.svg": "/static/media/file-solid.82beb2bf.svg",
+    "static/media/github-square-brands.a350dc17.svg": "/static/media/github-square-brands.a350dc17.svg",
+    "static/media/holder1.86a5602d.jpg": "/static/media/holder1.86a5602d.jpg",
+    "static/media/holder2.c894d531.jpg": "/static/media/holder2.c894d531.jpg",
+    "static/media/holder3.c5218cdb.jpg": "/static/media/holder3.c5218cdb.jpg",
+    "static/media/holder4.05e437f6.jpg": "/static/media/holder4.05e437f6.jpg",
+    "static/media/linkedin-brands.d31fae38.svg": "/static/media/linkedin-brands.d31fae38.svg",
+    "static/media/profilePic.96327e59.jpg": "/static/media/profilePic.96327e59.jpg",
+    "static/media/react.79ff9dc3.png": "/static/media/react.79ff9dc3.png",
+    "static/media/ticTacToe.25afd7e3.jpeg": "/static/media/ticTacToe.25afd7e3.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3618d139.js",
+    "static/js/2.1cffa46a.chunk.js",
+    "static/css/main.8fedc8b2.chunk.css",
+    "static/js/main.ac78e9a4.chunk.js"
+  ]
+}
